@@ -6,7 +6,7 @@ namespace Zaneevat\EloquentHelper;
 
 use Carbon\Carbon;
 
-trait DateTrait
+trait DateHelper
 {
 
     /**
