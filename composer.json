@@ -1,0 +1,17 @@
+{
+    "name": "zaneevat/eloquent-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim",
+            "email": "semkin.maksim@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Zaneevat\\EloquentHelper\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
