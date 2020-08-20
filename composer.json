@@ -1,6 +1,10 @@
 {
     "name": "zaneevat/eloquent-helper",
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "eloquent"
+    ],
     "authors": [
         {
             "name": "Maxim",
@@ -13,5 +17,7 @@
         }
     },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
